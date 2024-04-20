@@ -11,6 +11,7 @@ public class Lab003 {
         age = age +2;
 
 
+
         System.out.println(age);
     }
 }
